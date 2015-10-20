@@ -16,7 +16,7 @@
   },
   "main": "lib/mongoosastic.js",
   "dependencies": {
-    "elasticsearch": "git://github.com/rrgrs/elasticsearch-js.git",
+    "elasticsearch": "^8.2.0",
     "mongoose": "^4.1.8"
   },
   "devDependencies": {
